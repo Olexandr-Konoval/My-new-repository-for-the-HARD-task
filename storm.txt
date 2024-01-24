@@ -2,6 +2,3 @@ this is the new branch Storm and new commit to the folder with the same name
 
 Twenty ships with Norsemen braves
 Riding the northern wind
-
-They left their shores at early dawn
-As a red sun was rising in the east
